@@ -65,6 +65,7 @@ Critical resource depletion (any type)
 Complete destruction of all modules
 ## UML:
 <img width="3840" height="2012" alt="Image" src="https://github.com/user-attachments/assets/2fc1596d-d0ed-46e5-9c42-0d6d7ee0253a" />
+
 ## Screens from Console:
 <img width="435" height="552" alt="Image" src="https://github.com/user-attachments/assets/3e2e4307-596a-4b3b-a9bd-31646aef07c3" />
 <img width="438" height="933" alt="Image" src="https://github.com/user-attachments/assets/3e171890-d19d-45e5-adc1-1b36b30b34a4" />
